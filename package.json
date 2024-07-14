@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "vitest": "^2.0.2"
+  },
+  "name": "js---array-plus-array",
+  "description": "Instrucciones: Obtener la suma de dos matrices / arrays ... en realidad, la suma de todos sus elementos.",
+  "version": "1.0.0",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConchyP/JS---Array-Plus-Array.git"
+  },
+  "author": "conchy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConchyP/JS---Array-Plus-Array/issues"
+  },
+  "homepage": "https://github.com/ConchyP/JS---Array-Plus-Array#readme"
+}
